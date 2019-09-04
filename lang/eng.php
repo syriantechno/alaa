@@ -2,6 +2,7 @@
 
 //english lang
    // test live alaa
+//edit by alaa
 //nav
 $lang['lang-eng'] = 'English';
 $lang['lang-fre'] = 'French';
