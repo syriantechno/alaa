@@ -1,6 +1,6 @@
 <?php
 //german lang
-
+//test 2
 //nav
 $lang['lang-eng'] = 'Englisch';
 $lang['lang-ar'] = 'العربية';
