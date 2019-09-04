@@ -1,7 +1,7 @@
 <?php
 
 //english lang
-
+   // test live alaa
 //nav
 $lang['lang-eng'] = 'English';
 $lang['lang-fre'] = 'French';
